@@ -1,5 +1,11 @@
 # Automating-S3-Storage-Management-using-Versioning-Lifecycle-and-Access-Logging
 
+**Project Objective**
+Prevent accidental data loss
+
+Reduce long-term storage cost
+
+Track file access activity
 Step 1 :
 Two Amazon S3 buckets were created — one **main storage** bucket and one dedicated **logging** bucket.
 
