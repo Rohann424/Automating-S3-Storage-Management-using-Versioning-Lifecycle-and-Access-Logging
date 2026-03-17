@@ -44,7 +44,7 @@ Used for:
 
 ![Project Screenshot](Architecture Flow.png)
 
-
+**Practical Steps with Real Meaning**
 
 Step 1 :
 Two Amazon S3 buckets were created — one **main storage** bucket and one dedicated **logging** bucket.
