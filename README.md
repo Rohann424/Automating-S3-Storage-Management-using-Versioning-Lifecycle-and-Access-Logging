@@ -24,8 +24,10 @@ Step 4 :
 
 File upload and download operations were performed to generate access logs.
 
-![Project Screenshot](Screenshots/03-old-version-restore.png)
+![Project Screenshot](Screenshots/04-access-logs-generated.png)
 
 Step 5 :
 **Lifecycle policies** were configured to automatically transition objects to **lower-cost storage** classes and **delete older versions** after a defined period.
+
+![Project Screenshot](Screenshots/04-access-logs-generated.png)
 
