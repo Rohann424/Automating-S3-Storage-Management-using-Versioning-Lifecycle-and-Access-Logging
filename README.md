@@ -42,7 +42,7 @@ Used for:
 
 **Architecture Flow**
 
-![Project Screenshot](Architecture-Diagram-Secure-EC2-S3-Integration-using-IAM-Role.png)
+![Project Screenshot](Architecture Flow.png)
 
 **Practical Steps with Real Meaning**
 
