@@ -40,7 +40,7 @@ Used for:
 🏦 Compliance Requirements
 
 
-**Architecture Flow**
+🔹 **Architecture Flow**
 
 ![Project Screenshot](Architecture-Flow.png)
 
