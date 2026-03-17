@@ -8,21 +8,24 @@ The main bucket is used to store **application data**, while the log bucket is u
 ![Project Screenshot](Screenshots/01-buckets-created.png)
 
 Step 2 :
-Bucket versioning was enabled to maintain multiple versions of the same object.
+Bucket versioning was **enabled** to maintain **multiple versions** of the same object.
 
 Multiple uploads of the same file were performed to generate different versions.
 
 ![Project Screenshot](Screenshots/02-versioning-enabled.png)
 
 Step 3 :
-An older version of the uploaded file was restored by deleting the latest version and accessing the previous version.
+An older version of the uploaded file was **restored** by deleting the latest version and accessing the previous version.
 
 ![Project Screenshot](Screenshots/03-old-version-restore.png)
 
 Step 4 :
-Server access logging was enabled on the main bucket, and logs were configured to be delivered to the logging bucket.
+**Server access logging** was enabled on the main bucket, and logs were configured to be delivered to the logging bucket.
 
 File upload and download operations were performed to generate access logs.
 
 ![Project Screenshot](Screenshots/03-old-version-restore.png)
+
+Step 5 :
+**Lifecycle policies** were configured to automatically transition objects to **lower-cost storage** classes and **delete older versions** after a defined period.
 
