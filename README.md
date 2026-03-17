@@ -1,11 +1,43 @@
 # Automating-S3-Storage-Management-using-Versioning-Lifecycle-and-Access-Logging
 
 **Project Objective**
-Prevent accidental data loss
+ • Prevent accidental data loss
+ • Reduce long-term storage cost
+ • Track file access activity
 
-Reduce long-term storage cost
+**Services Used**
+🔹Amazon S3
 
-Track file access activity
+Used for:
+ • Object storage
+ • File versioning
+ • Lifecycle management
+ • Access logging
+
+⭐ S3 Versioning
+
+Used for:
+ • Maintaining file history
+ • Recovering deleted or overwritten files
+
+⭐ S3 Lifecycle Policy
+
+Used for:
+ • Automatic data archiving
+ • Automatic deletion of old versions
+
+⭐ S3 Server Access Logging
+
+Used for:
+ • Monitoring file access
+ • Security auditing
+
+
+
+
+
+
+
 Step 1 :
 Two Amazon S3 buckets were created — one **main storage** bucket and one dedicated **logging** bucket.
 
