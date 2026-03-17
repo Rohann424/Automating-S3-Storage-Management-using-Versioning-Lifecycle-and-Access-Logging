@@ -12,4 +12,4 @@ Bucket versioning was enabled to maintain multiple versions of the same object.
 
 Multiple uploads of the same file were performed to generate different versions.
 
-![Project Screenshot](Screenshots/01-buckets-created.png)
+![Project Screenshot](Screenshots/02-versioning-enabled.png)
